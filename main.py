@@ -1,4 +1,4 @@
-__author__ = "Keegan McCormack"
+#__author__ = "Keegan McCormack"
 """This will be a calculator for dieting"""
 
 
